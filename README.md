@@ -19,3 +19,6 @@ You need to provide a noise texture (works best with a tileable one, even better
 ![Noise Displacement](Renders/Bar.gif "Noise Displacement")
 
 I had a pretty purple ball, but GIF compression screwed it over.
+
+# Consider buying me a coffee if you like my work (click the image)
+[![Foo](Renders/coffee.png)](https://www.buymeacoffee.com/ZcRuWpUBf)
